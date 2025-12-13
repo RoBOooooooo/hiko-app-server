@@ -1,26 +1,26 @@
 {
-    "name": "online-learning-platform-server",
-    "version": "1.0.0",
-    "description": "Backend server for Online Learning Platform",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js",
-        "dev": "nodemon index.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "express",
-        "mongodb",
-        "learning-platform",
-        "education"
-    ],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "cors": "^2.8.5",
-        "dotenv": "^16.4.7",
-        "express": "^4.21.2",
-        "mongodb": "^7.0.0",
-        "nodemon": "^3.1.9"
-    }
+  "name": "hiko-app-server",
+  "version": "1.0.0",
+  "description": "Backend server for Online Learning Platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "learning-platform",
+    "education"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^7.0.0",
+    "nodemon": "^3.1.9"
+  }
 }
